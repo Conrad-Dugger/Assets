@@ -9,7 +9,7 @@
    id="svg5"
    sodipodi:docname="Map1.svg"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
-   inkscape:export-filename="Map1.svg"
+   inkscape:export-filename="..\..\..\..\..\Assets GitHub\Assets\ContinuumXR\Maps\Map1.svg"
    inkscape:export-xdpi="109.47"
    inkscape:export-ydpi="109.47"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -54,7 +54,7 @@
      transform="translate(-301.29328,-5.4558867)">
     <path
        sodipodi:type="star"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:8.51463;stroke-dasharray:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:8.51463;stroke-dasharray:none"
        id="Lobby"
        inkscape:flatsided="false"
        sodipodi:sides="6"
@@ -74,7 +74,7 @@
          id="title14669">Lobby</title>
     </path>
     <ellipse
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-dasharray:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-dasharray:none"
        id="Login"
        cx="640"
        cy="646.9386"
@@ -84,7 +84,7 @@
          id="title14651">Login</title>
     </ellipse>
     <ellipse
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-dasharray:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-dasharray:none"
        id="Shops"
        cx="640"
        cy="69.95713"
@@ -94,7 +94,7 @@
          id="title14673">Shops</title>
     </ellipse>
     <ellipse
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-dasharray:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-dasharray:none"
        id="Center"
        cx="640"
        cy="323.27521"
@@ -104,7 +104,7 @@
          id="title14655">Center</title>
     </ellipse>
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-dasharray:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-dasharray:none"
        id="Dailies"
        width="247.41493"
        height="42.873241"
@@ -114,7 +114,7 @@
          id="title14671">Dailies</title>
     </rect>
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.99999;stroke-dasharray:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.99999;stroke-dasharray:none"
        id="Cosmetics_2"
        width="30.682472"
        height="82.319008"
@@ -125,7 +125,7 @@
          id="title14665">Cosmetics 2</title>
     </rect>
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.99999;stroke-dasharray:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.99999;stroke-dasharray:none"
        id="Cosmetics_1"
        width="30.682472"
        height="82.319008"
@@ -136,7 +136,7 @@
          id="title14663">Cosmetics 1</title>
     </rect>
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.99999;stroke-dasharray:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.99999;stroke-dasharray:none"
        id="Shop_2"
        width="31.430895"
        height="31.430895"
@@ -146,7 +146,7 @@
          id="title14659">Shop 2</title>
     </rect>
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.99999;stroke-dasharray:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.99999;stroke-dasharray:none"
        id="Shop_3"
        width="31.430895"
        height="31.430895"
@@ -156,7 +156,7 @@
          id="title14661">Shop 3</title>
     </rect>
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.99999;stroke-dasharray:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.99999;stroke-dasharray:none"
        id="Shop_1"
        width="31.430895"
        height="31.430895"
@@ -166,7 +166,7 @@
          id="title14657">Shop 1</title>
     </rect>
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-dasharray:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-dasharray:none"
        id="Vine"
        width="11.816922"
        height="255.16293"
@@ -177,7 +177,7 @@
     </rect>
     <path
        id="Slide"
-       style="color:#000000;fill:#000000;-inkscape-stroke:none"
+       style="color:#000000;fill:#ffffff;-inkscape-stroke:none"
        d="m 424.79319,554.33619 -3.36723,3.69693 c 0,0 42.91823,39.03379 131.14238,64.13872 l 1.36891,-4.80849 C 466.6102,592.51369 424.79319,554.33619 424.79319,554.33619 Z m -61.8479,33.91783 -3.36724,3.69693 c 0,0 67.68037,61.59677 207.20337,101.29924 l 1.36891,-4.80901 C 429.52443,648.99398 362.94529,588.25402 362.94529,588.25402 Z">
       <title
          id="title14667">Slide</title>
