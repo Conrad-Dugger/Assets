@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="2418.3052"
-     inkscape:cy="1412.7993"
+     inkscape:zoom="0.25"
+     inkscape:cx="2504"
+     inkscape:cy="1282"
      inkscape:window-width="2560"
      inkscape:window-height="1387"
      inkscape:window-x="-8"
@@ -55,7 +55,7 @@
     <path
        sodipodi:type="star"
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:8.51463;stroke-dasharray:none"
-       id="path12407"
+       id="Lobby"
        inkscape:flatsided="false"
        sodipodi:sides="6"
        sodipodi:cx="178.85677"
@@ -69,82 +69,118 @@
        d="m 282.68781,357.79204 c -1.46894,2.54428 -49.77141,27.8114 -52.31569,29.28034 -2.54428,1.46894 -48.57747,30.66654 -51.51535,30.66654 -2.93789,0 -48.97109,-29.1976 -51.51537,-30.66654 -2.54428,-1.46895 -50.846743,-26.73606 -52.315684,-29.28034 -1.468941,-2.54428 0.800326,-57.00901 0.800326,-59.94689 0,-2.93788 -2.269266,-57.4026 -0.800325,-59.94688 1.468941,-2.54428 49.771413,-27.8114 52.315693,-29.28034 2.54428,-1.46894 48.57747,-30.66654 51.51536,-30.66654 2.93788,0 48.97108,29.1976 51.51536,30.66654 2.54428,1.46894 50.84674,26.73606 52.31569,29.28034 1.46894,2.54428 -0.80033,57.00901 -0.80033,59.94689 0,2.93788 2.26927,57.4026 0.80032,59.94688 z"
        inkscape:transform-center-y="-1.1030111e-05"
        transform="matrix(0.57348165,0,0,0.60129717,260.99269,341.04527)"
-       inkscape:transform-center-x="-2.2174365e-06" />
+       inkscape:transform-center-x="-2.2174365e-06">
+      <title
+         id="title14669">Lobby</title>
+    </path>
     <ellipse
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-dasharray:none"
-       id="path13872"
+       id="Login"
        cx="640"
        cy="646.9386"
        rx="94.499466"
-       ry="68.500465" />
+       ry="68.500465">
+      <title
+         id="title14651">Login</title>
+    </ellipse>
     <ellipse
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-dasharray:none"
-       id="ellipse13926"
+       id="Shops"
        cx="640"
        cy="69.95713"
        rx="156.72314"
-       ry="62.001244" />
+       ry="62.001244">
+      <title
+         id="title14673">Shops</title>
+    </ellipse>
     <ellipse
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-dasharray:none"
-       id="ellipse13928"
+       id="Center"
        cx="640"
        cy="323.27521"
        rx="162.76212"
-       ry="154.34944" />
+       ry="154.34944">
+      <title
+         id="title14655">Center</title>
+    </ellipse>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-dasharray:none"
-       id="rect13984"
+       id="Dailies"
        width="247.41493"
        height="42.873241"
        x="879.19751"
-       y="608.79846" />
+       y="608.79846">
+      <title
+         id="title14671">Dailies</title>
+    </rect>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.99999;stroke-dasharray:none"
-       id="rect14002"
+       id="Cosmetics_2"
        width="30.682472"
        height="82.319008"
        x="861.35626"
        y="168.92577"
-       ry="0" />
+       ry="0">
+      <title
+         id="title14665">Cosmetics 2</title>
+    </rect>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.99999;stroke-dasharray:none"
-       id="rect14004"
+       id="Cosmetics_1"
        width="30.682472"
        height="82.319008"
        x="392.13785"
        y="168.92577"
-       ry="0" />
+       ry="0">
+      <title
+         id="title14663">Cosmetics 1</title>
+    </rect>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.99999;stroke-dasharray:none"
-       id="rect14010"
+       id="Shop_2"
        width="31.430895"
        height="31.430895"
        x="624.28455"
-       y="87.557495" />
+       y="87.557495">
+      <title
+         id="title14659">Shop 2</title>
+    </rect>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.99999;stroke-dasharray:none"
-       id="rect14015"
+       id="Shop_3"
        width="31.430895"
        height="31.430895"
        x="702.71564"
-       y="69.342056" />
+       y="69.342056">
+      <title
+         id="title14661">Shop 3</title>
+    </rect>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.99999;stroke-dasharray:none"
-       id="rect14017"
+       id="Shop_1"
        width="31.430895"
        height="31.430895"
        x="547.35016"
-       y="69.342056" />
+       y="69.342056">
+      <title
+         id="title14657">Shop 1</title>
+    </rect>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-dasharray:none"
-       id="rect14215"
+       id="Vine"
        width="11.816922"
        height="255.16293"
        x="634.01318"
-       y="322.60016" />
+       y="322.60016">
+      <title
+         id="title14653">Vine</title>
+    </rect>
     <path
-       id="path14249"
+       id="Slide"
        style="color:#000000;fill:#000000;-inkscape-stroke:none"
-       d="m 424.79319,554.33619 -3.36723,3.69693 c 0,0 42.91823,39.03379 131.14238,64.13872 l 1.36891,-4.80849 C 466.6102,592.51369 424.79319,554.33619 424.79319,554.33619 Z m -61.8479,33.91783 -3.36724,3.69693 c 0,0 67.68037,61.59677 207.20337,101.29924 l 1.36891,-4.80901 C 429.52443,648.99398 362.94529,588.25402 362.94529,588.25402 Z" />
+       d="m 424.79319,554.33619 -3.36723,3.69693 c 0,0 42.91823,39.03379 131.14238,64.13872 l 1.36891,-4.80849 C 466.6102,592.51369 424.79319,554.33619 424.79319,554.33619 Z m -61.8479,33.91783 -3.36724,3.69693 c 0,0 67.68037,61.59677 207.20337,101.29924 l 1.36891,-4.80901 C 429.52443,648.99398 362.94529,588.25402 362.94529,588.25402 Z">
+      <title
+         id="title14667">Slide</title>
+    </path>
   </g>
 </svg>
